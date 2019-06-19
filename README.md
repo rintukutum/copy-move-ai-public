@@ -17,7 +17,7 @@
 | 03 | ./02-download-OA-subset-4m-PMC-FTP-03.sh | saikat | done | /media/saikat/Drive 2/office/extra-help/rintu-da/copy-move-ai |
 | 04 | ./02-download-OA-subset-4m-PMC-FTP-04.sh | saikat | done | /media/saikat/Drive 2/office/extra-help/rintu-da/copy-move-ai |
 | 05 | ./02-download-OA-subset-4m-PMC-FTP-[04-10].sh | rintu | done | ~/Document/office/copy-move-ai |
-| 06 | ./02-download-OA-subset-4m-PMC-FTP-[11-20].sh | rintu | running | ~/Document/office/copy-move-ai |
+| 06 | ./02-download-OA-subset-4m-PMC-FTP-[11-20].sh | rintu | done | ~/Document/office/copy-move-ai |
 
 
 #### Active researchers in Bioscience
