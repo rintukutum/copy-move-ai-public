@@ -4,11 +4,11 @@
 - [Pubmed-parser](https://github.com/titipata/pubmed_parser)
 
 
-#### Downloaded (# PMC articles 7,32,073 articles)
+#### Downloaded (# PMC articles 7,66,145 articles)
 - rintu(42)
 
 #### Storage status 
-- 5.1 TB / 10 TB
+- 5.2 TB / 10 TB
 #### Jobs status
 | SI no. | file | system | status(PI) | path |
 |--------|------|--------|--------|--------|
